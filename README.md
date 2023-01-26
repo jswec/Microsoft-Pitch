@@ -54,7 +54,7 @@ Our analysis leads to three different avenues in which to proceed, none prohibit
 This analysis leads to three recommendations regarding types of movies that are successful:-
 Horror is a great way to dip your toe into the industry without a lot of capital committed, they have some of if not the highest rate of returns and result in some of the most negligible losses as they are often low risk but high reward.
 
-Childrens films do extremely well even without high ratings so again a fairly safe bet to leap into as their rating emcompases the entire population
+Childrens films do extremely well even without high ratings so again a fairly safe bet to leap into as their rating emcompasses the entire population
 
 Action and Adventure are some of the highest grossing movies of all time, and will generate the most revenue if they are successful, however their budget is much higher than the horror and higher than childrens films, so while this is one of the riskier options, still extremely viable
 
