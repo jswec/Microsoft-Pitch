@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+tn.movie_budgets.csv.gz
+im.db
+tn.movie_budgets.csv.gz
