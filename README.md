@@ -15,7 +15,7 @@ Microsoft wants to create a new studio to finally and only now at it's peak real
 
 ## Data
 
-Our data was generated from the website IMDb. IMDb (an initialism for Internet Movie Database) is a website where you can find out that Elrond from Lord of the Rings also played the dog in Babe and Babe 2: Pig in the City. It also is a global online database of information related to movies, television, and videogames. We used box office gross, ratings, and producer credits to generate our findings.
+Our data was generated from the website IMDb. IMDb (an initialism for Internet Movie Database) which is a website where you can find out that Elrond from Lord of the Rings also played the dog in Babe and Babe 2: Pig in the City. It also is a global online database of information related to movies, television, and videogames. We used box office gross, ratings, and producer credits to generate our findings.
 
 ## Methods
 
@@ -66,6 +66,8 @@ It doesn't account for merchandising, there is a large sum of money to be made f
 
 Describe the structure of your repository and its contents, for example:
 
+
+<Placeholder for when we clean it up and make it pretty/accurate>
 ```<Placeholder for when we clean it up and make it pretty>
 ├── README.md                           <- The top-level README for reviewers of this project
 ├── dsc-phase1-project-template.ipynb   <- Narrative documentation of analysis in Jupyter notebook
